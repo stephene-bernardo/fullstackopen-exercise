@@ -1,0 +1,6 @@
+browser->server: https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: Status 201
+
+note over browser:
+Modify the displayed note to add the newly saved note.
+end note
